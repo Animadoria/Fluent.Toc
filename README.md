@@ -1,4 +1,5 @@
-NOTICE: AOL has dropped support for the TOC 1.0 Protocol. The alpha release of Fluent.Toc 0.3 supports the new TOC 2.0 Protocol
+# Fluent.TOC
+Interim base TOC client for C#, will replace with a better client from scratch when I have time™.
 
 Fluent.Toc is a .NET component written in C# for communicating with AOL's Instant Messenger (AIM) service. Initially ported from JavaTOC, Fluent.Toc has been extended with more features and redesigned as a .NET API. Fluent.Toc is released under the LGPL.
 
